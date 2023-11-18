@@ -14,7 +14,7 @@
   header {
     padding: 40px;
     text-align: center;
-    background: blueviolet;
+    background: rgb(70, 0, 135);
     color: #fff;
   }
   
@@ -27,7 +27,7 @@
   }
   
   nav a {
-    color: blueviolet;
+    color: rgb(70, 0, 135);
     padding: 14px 20px;
     text-decoration: none;
     text-align: center;
@@ -36,7 +36,7 @@
   footer {
     padding: 20px;
     text-align: center;
-    background: blueviolet;
+    background: rgb(70, 0, 135);
     color: #fff;
     margin-top: auto;
   }
